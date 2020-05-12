@@ -1,21 +1,37 @@
 /*div class header*/
 #header {
-	height: 40%;
+	height: 78%;
 	width: 100%;
-	color: yellow;
+	color: black;
 }
 
 /*table header*/
 #tab-header {
 	height: 100%;
 	width: 100%;
-	color: red;
+	color: white;
 }
 
 /*image me*/
 #me {
 	float: left;
 	position: relative;
-	size: auto;
-	box-shadow: rgb(2,3,0,0);
+	height: 100%;
+	width: 100%;
+	/*box-shadow: rgb(2,3,0,0);*/
+}
+
+/*title subtitle*/
+#title, #subtitle {
+	font-family: Courier;
+}
+
+#title {
+	font-size: 18px;
+	color: brown;
+}
+
+#subtitle {
+	font-size: 14px;
+	color: brown;
 }
