@@ -1,0 +1,21 @@
+/*div class header*/
+#header {
+	height: 40%;
+	width: 100%;
+	color: yellow;
+}
+
+/*table header*/
+#tab-header {
+	height: 100%;
+	width: 100%;
+	color: red;
+}
+
+/*image me*/
+#me {
+	float: left;
+	position: relative;
+	size: auto;
+	box-shadow: rgb(2,3,0,0);
+}
